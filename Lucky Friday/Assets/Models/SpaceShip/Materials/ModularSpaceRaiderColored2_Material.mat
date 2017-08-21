@@ -34,4 +34,4 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _SourceColor: {r: 1, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 1, g: 1, b: 1, a: 1}
-    - _TargetColor: {r: 1, g: 0.8482759, b: 0, a: 1}
+    - _TargetColor: {r: 1, g: 1, b: 1, a: 1}

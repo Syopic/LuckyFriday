@@ -10,14 +10,26 @@ ModelImporter:
     100004: Dungeon1
     100006: Mesh1
     100008: Raster1
+    100010: node_id6
+    100012: node_id7
+    100014: root
     400000: //RootNode
     400002: Component1
     400004: Dungeon1
     400006: Mesh1
     400008: Raster1
+    400010: node_id6
+    400012: node_id7
+    400014: root
     2300000: Mesh1
+    2300002: node_id7
+    2300004: root
     3300000: Mesh1
+    3300002: node_id7
+    3300004: root
     4300000: Mesh1
+    4300002: node_id7
+    4300004: root
   materials:
     importMaterials: 1
     materialName: 0
